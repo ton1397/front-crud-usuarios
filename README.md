@@ -25,7 +25,7 @@ Este projeto é uma aplicação front-end construída com Vue.js e o framework Q
    npm install
    ```
 
-3. **Certifique-se de ter o Docker instalado e em execução. Se não tiver, instale-o a partir do [site oficial do Docker](https://www.docker.com/get-started).**
+3. **Certifique-se de ter o Docker e Docker Compose instalados corretamente e em execução. Se não tiver, instale-o a partir do [site oficial do Docker](https://www.docker.com/get-started).**
 
 4. **Suba os containers Docker:**
 
